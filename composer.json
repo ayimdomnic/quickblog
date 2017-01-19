@@ -1,0 +1,21 @@
+{
+    "name": "ayimdomnic/quickblog",
+    "description": "A simple way to build robust blogs in lARAVEL 5.3",
+    "type": "library",
+    "authors": [
+        {
+            "name": "ayimdomnic",
+            "email": "ayimdomnic@outlook.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "cviebrock/eloquent-sluggable": "4.1",
+        "nesbot/carbon": "~1.18",
+        "guzzlehttp/guzzle": "~6.2",
+        "laravelcollective/html": "5.2.*",
+        "intervention/image": "~2.1",
+        "predis/predis": "~1.0",
+        "jorenvanhocht/tracert": "v2.0.1"
+    }
+}
